@@ -130,9 +130,8 @@ Have questions or suggestions? Reach out to us:
 
 ---
 
-## 📝 License
-
-This project is licensed under the MIT License. See the LICENSE file for details.
+## 📝Copyright
+all right reserved .@naveen 
 
 ---
 
