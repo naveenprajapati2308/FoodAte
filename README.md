@@ -2,6 +2,13 @@
 
 Welcome to **FoodAte**, your one-stop solution for craving satisfaction! From mouthwatering delicacies to quick delivery, FoodAte redefines convenience and brings your favorite meals right to your doorstep.
 
+
+you can explore the site 
+- Frontend -https://foodate-frontend.onrender.com
+- Admin pannel- https://foodate-admin.onrender.com
+-
+
+
 ---
 
 ## 🚀 Features
