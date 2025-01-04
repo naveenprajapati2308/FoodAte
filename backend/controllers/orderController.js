@@ -4,7 +4,7 @@ import Stripe from "stripe";
 
 const stripe = new Stripe(process.env.STRIPE_SECRET_KEY);
 ////check the port before the run the project 
-const frontend_url = "http://localhost:5174";
+const frontend_url = "https://foodate-frontend.onrender.com/";
 
 // Placing user order from the frontend
 const placeOrder = async (req, res) => {
