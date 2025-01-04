@@ -83,15 +83,7 @@ Follow these steps to run the app locally:
 
 ---
 
-## 📸 Screenshots
 
-![Home Page](https://via.placeholder.com/800x400 "Home Page")
-*Description: The elegant homepage where users can browse featured dishes.*
-
-![Order Tracking](https://via.placeholder.com/800x400 "Order Tracking")
-*Description: Real-time order tracking interface.*
-
----
 
 ## 🤝 Contribution
 
