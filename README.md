@@ -5,6 +5,7 @@ Welcome to **FoodAte**, your one-stop solution for craving satisfaction! From mo
 
 you can explore the site 
 - Frontend -[https://foodate-frontend.onrender.com](https://foodate-frontend.onrender.com)
+- backend- https://foodate-backend.onrender.com
 
 -
 
