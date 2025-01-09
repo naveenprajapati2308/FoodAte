@@ -4,8 +4,8 @@ Welcome to **FoodAte**, your one-stop solution for craving satisfaction! From mo
 
 
 you can explore the site 
-- Frontend -https://foodate-frontend.onrender.com
-- Admin pannel- https://foodate-admin.onrender.com
+- Frontend -[https://foodate-frontend.onrender.com](https://foodate-frontend.onrender.com)
+
 -
 
 
